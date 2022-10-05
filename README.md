@@ -34,8 +34,10 @@ Start the program
 
 ## Screenshots
 
+![App Screenshot](https://raw.githubusercontent.com/muzammil-85/Attendance-face-recognition/master/readResource/faceshot.png)
+
 ![App Screenshot](https://raw.githubusercontent.com/muzammil-85/Attendance-face-recognition/master/readResource/attendanceshot.png)
 
-![App Screenshot](https://raw.githubusercontent.com/muzammil-85/Attendance-face-recognition/master/readResource/faceshot.png)
+
 
 
